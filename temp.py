@@ -28,3 +28,6 @@ for i, x in enumerate(X):
          markersize=10,
          markeredgewidth=2)
 show()    
+mappings= som.win_map(X)
+frauds= np.concatenate((mappings[(8,1)], mappings[(2,2)]), axis=0)
+frauds= sc.inverse_transform(frauds)
