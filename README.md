@@ -7,7 +7,7 @@
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/sachinSingh16-09/Self_organising_maps?color=04D361&labelColor=000000">
   
   <a href="https://github.com/sachinSingh16-09/Link-Tree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sachinSingh16-09/Cat_to_Dog_image_detector?color=04D361&labelColor=000000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sachinSingh16-09/Self_organising_maps?color=04D361&labelColor=000000">
   </a>
 </p>
 
