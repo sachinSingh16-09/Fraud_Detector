@@ -27,7 +27,8 @@ for i, x in enumerate(X):
          markerfacecolor= 'None',
          markersize=10,
          markeredgewidth=2)
-show()    
+show()
+#finding the fraud customers
 mappings= som.win_map(X)
 frauds= np.concatenate((mappings[(8,1)], mappings[(2,2)]), axis=0)
 frauds= sc.inverse_transform(frauds)
